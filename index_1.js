@@ -132,6 +132,10 @@ for(var i in arr_1) {
     //result_num+=arr_1[i];
 }
 
+//for...in по ключу
+//структура 
+console.log("\nnew text for create commit\n");
+
 console.log("\n-----------------------for...in...of------------------------\n");
 
 let iterable = [10, 20, 30];
@@ -172,3 +176,5 @@ console.log(b);
 ////
 ////
 /*************************************************************************************/
+
+console.log("\n---create new text for testing commit---\n");

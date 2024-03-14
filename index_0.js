@@ -15,6 +15,8 @@ const bool_1 = true;
 
 // Some change 4 (add diveloper branch)
 
+// Some change 5 (child branch)
+
 /*******************************************ВЫВОД СТРОК И СИМВОЛОВ В КОНСОЛЬ***********************************************/
 /*первый тип строк (вывод строки целеком)*/
 console.log('Hello World new');
